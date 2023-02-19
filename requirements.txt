@@ -1,0 +1,5 @@
+adjustText==0.8
+geopandas==0.12.2
+matplotlib==3.7.0
+pandas==1.5.3
+requests==2.25.1
